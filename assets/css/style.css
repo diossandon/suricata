@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand{
+  width: 50%;
+}
+
+.navbar-brand img{
+  width: 35%;
+
+}
+
+.common{
+  background-color: #E83E8C;
+}
+
+.center {
+  width: 6%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icons-section {
+  background-color: #17A2B8;
+}
+
+.icons {
+  color: #ffffff;
+}
